@@ -81,7 +81,7 @@ I'm a 🎧 Software Engineer and 💻 Machine Learning Engineer.
 ░░: Not Complete
 
 💬 Books: 
-Rich Dad Poor Dad               2 hrs 40 mins       ████░░░░░░░░░░░░░░░░   18.01% 
+Rich Dad Poor Dad               2 hrs 40 mins       ████░░░░░░░░░░░░░░░░   18.01%   (08/17/2020)
 ```
 
 ----
