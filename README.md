@@ -59,12 +59,13 @@ I'm a 🎧 Software Engineer and 💻 Machine Learning Engineer.
 
 | PROJECTS :floppy_disk: | SHORT DESCRIPTION :green_book: |
 | :--- | :--- |
+| [js-ds-algo](https://github.com/JaturongKongmanee/js-ds-algo) | A note on what I've learned to be a professional full-stack JS software engineer. |
 | [ETL engineering](https://github.com/JaturongKongmanee/etl-engineering) | A tool for uploading data from multiple sources (in different format) into a single  table. |
 | [DLAI](https://deeplearningandaiwinterschool.github.io/) | A website for Deep Learning and Artificial Intelligence Summer School. |
 | [NodeExpress](https://github.com/JaturongKongmanee/nodejs-express-rewind) | A guide to creating a RESTful web services API to create, read, update, and delete the customer data by using Node.js and Express framework. |
 | [Search & Filter with JS](https://github.com/JaturongKongmanee/js-rewind) | An app built in Vanilla Javascript, HTML5, and CSS3 to search and view customer data. |
-| [Heart Beating](https://github.com/JaturongKongmanee/heart-beating) | A simple tool to simulate a simple inter-process communication protocol.  |
-| [Cache Invalidation Strategy for Mobile Environments](https://github.com/JaturongKongmanee/cache-or-not-to-cache) | A simple tool to simulate a Scalable Low-Latency Cache Invalidation Strategy for mobile environments.  |
+| [Heart Beating](https://github.com/JaturongKongmanee/heart-beating) | A tool to simulate a simple inter-process communication protocol.  |
+| [Cache Invalidation Strategy for Mobile Environments](https://github.com/JaturongKongmanee/cache-or-not-to-cache) | A tool to simulate a Scalable Low-Latency Cache Invalidation Strategy for mobile environments.  |
 | [Securing Smart Contracts using Model Checker](https://github.com/JaturongKongmanee/model-checking-nusmv) | A simple guide to using Model Checker to secure smart contracts. |
 | [PCK-Q](https://jaturongkongmanee.github.io/PCK-Q/) | A website providing demos and information on the proposed research for Texas Tech University. |
 
