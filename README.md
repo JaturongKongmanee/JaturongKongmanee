@@ -59,6 +59,7 @@ I'm a 🎧 Software Engineer and 💻 Machine Learning Engineer.
 
 | PROJECTS :floppy_disk: | SHORT DESCRIPTION :green_book: |
 | :--- | :--- |
+| [Blurry](https://doubledudes.github.io/blurry/) | The browser extension to blur unwanted contents on any webpage with the customised blur level. |
 | [js-ds-algo](https://github.com/JaturongKongmanee/js-ds-algo) | A note on what I've learned to be a professional full-stack JS software engineer. |
 | [ETL engineering](https://github.com/JaturongKongmanee/etl-engineering) | A tool for uploading data from multiple sources (in different format) into a single  table. |
 | [DLAI](https://deeplearningandaiwinterschool.github.io/) | A website for Deep Learning and Artificial Intelligence Summer School. |
