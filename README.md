@@ -90,6 +90,7 @@ Rich Dad Poor Dad               2 hrs 40 mins       ████░░░░░�
 
 ### My Research Papers:
 
+- [Fine-Tuning A Lightweight Convolutional Neural Networks for COVID-19 Diagnosis](https://doi.org/10.1145/3429210.3429218)
 - [Securing Smart Contracts in Blockchain](https://ieeexplore.ieee.org/document/8967424)
 - [Network-based visualization tool for analyzing gene expression data](https://dl.acm.org/doi/abs/10.1145/3105971.3108446) 
 - [Parallel Affinity Propagation Clustering in Identifying Sub-Network Biomarker Genes of Lung Cancer](https://dl.acm.org/doi/abs/10.1145/3029375.3029385)
