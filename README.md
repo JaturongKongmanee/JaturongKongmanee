@@ -23,7 +23,9 @@ I'm a 🎧 Software Engineer and 💻 Machine Learning Engineer.
 
 - 👯 I’m looking to collaborate on ```Building an end-to-end machine learning system```
 
+<!--
 - 🤔 I’m looking for help with ```Jobs Searching```
+-->
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jaturong_Kongmanee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaturong-dill-kongmanee-767b1bb3/)](https://www.linkedin.com/in/jaturong-dill-kongmanee-767b1bb3/) :email: ```dillsunnyb11 at gmail.com```
 
@@ -75,7 +77,7 @@ I'm a 🎧 Software Engineer and 💻 Machine Learning Engineer.
 
 ---
 
-
+<!--
 ### I’m currently reading ... :book: 
 
 ```text
@@ -85,6 +87,7 @@ I'm a 🎧 Software Engineer and 💻 Machine Learning Engineer.
 💬 Books: 
 Rich Dad Poor Dad               2 hrs 40 mins       ████░░░░░░░░░░░░░░░░   18.01%   (08/17/2020)
 ```
+-->
 
 ----
 
