@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 
 # Hi Friends 👋, I'm Jaturong Kongmanee 
-I'm a 🎧 Software Engineer and 💻 Machine Learning Engineer.
+I'm a 🎧 PhD candidate (and 💻 Software Engineer) in ML working on making Interactive Machine Learning (e.g., Human-in-the-loop) usable and reliable for enhacing data labeling processes and for applications in Cybersecurity.
 
 <!--
 - 🔭 I’m currently working on ```Diabetic retinopathy detection``` and ```COVID-19 chest x-ray images classification```
