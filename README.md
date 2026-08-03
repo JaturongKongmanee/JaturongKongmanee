@@ -15,6 +15,7 @@ Here are some ideas to get you started:
 
 
 # Hi Friends 👋, It is a pleasure to meet you. It is wonderful to connect with you today.
+
 <!--I'm a 🎧 PhD candidate (and 💻 Software Engineer) in ML working on making Interactive Machine Learning (e.g., Human-in-the-loop) usable and reliable for enhacing data labeling processes and for applications in Cybersecurity.
 -->
 
@@ -26,7 +27,9 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning ```Vue.js``` and ```Advanced JavaScript and Python```
 -->
 
+<!--
 - 👯 I’m looking to collaborate on ```Building an end-to-end machine learning system```
+-->
 
 <!--
 - 🤔 I’m looking for help with ```Jobs Searching```
@@ -36,7 +39,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Jaturong_Kongmanee-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jaturong-dill-kongmanee-767b1bb3/)](https://www.linkedin.com/in/jaturong-dill-kongmanee-767b1bb3/)
 - -->
 
----
 
 ### Languages and Tools:
 
@@ -148,7 +150,6 @@ Rich Dad Poor Dad               2 hrs 40 mins       ████░░░░░�
 ```
 -->
 
-----
 
 <!--
 ### My Research Papers:
