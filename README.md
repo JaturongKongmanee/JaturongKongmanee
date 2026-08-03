@@ -14,8 +14,9 @@ Here are some ideas to get you started:
 -->
 
 
-# Hi Friends 👋, I'm Jaturong Kongmanee 
-I'm a 🎧 PhD candidate (and 💻 Software Engineer) in ML working on making Interactive Machine Learning (e.g., Human-in-the-loop) usable and reliable for enhacing data labeling processes and for applications in Cybersecurity.
+# Hi Friends 👋, It is a pleasure to meet you. It is wonderful to connect with you today.
+<!--I'm a 🎧 PhD candidate (and 💻 Software Engineer) in ML working on making Interactive Machine Learning (e.g., Human-in-the-loop) usable and reliable for enhacing data labeling processes and for applications in Cybersecurity.
+-->
 
 <!--
 - 🔭 I’m currently working on ```Diabetic retinopathy detection``` and ```COVID-19 chest x-ray images classification```
@@ -39,14 +40,20 @@ I'm a 🎧 PhD candidate (and 💻 Software Engineer) in ML working on making In
 
 ### Languages and Tools:
 
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
-</code>
+<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/python.svg"></code>
+<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Google_JAX_logo.svg/120px-Google_JAX_logo.svg.png?_=20220620133514"></a></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-ar21.svg"></a></code>
+<code><img height="40" src="https://vllm.ai/vLLM-Full-Dark-Mode-Logo.svg"></a></code>
+<code><img height="40" src="https://avatars.githubusercontent.com/u/147780389?s=60&v=4"></a></code>
+<code><img height="40" src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg"></a></code>
 <code><img height="40" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTApU_6Eg4oWx3NMhLifHmNEkxjeMxfd3oGUA&usqp=CAU"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/git-icon.svg"></code>
 <code><img height="40" src="https://cdn.svgporn.com/logos/visual-studio-code.svg"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+
+
+
 
 <!--
 <code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
@@ -83,8 +90,10 @@ I'm a 🎧 PhD candidate (and 💻 Software Engineer) in ML working on making In
 | LOGOS | PROJECTS :floppy_disk: | SHORT DESCRIPTION :green_book: |
 | :--- | :--- | :--- |
 | <a href="https://doubledudes.github.io/blurry/"><img src="https://github.com/JaturongKongmanee/JaturongKongmanee/blob/master/assets/thumbnails/projects/blurry-icon-128.png" width="100px;" alt=""/></a> | [Blurry](https://doubledudes.github.io/blurry/) | The browser extension to blur unwanted contents on any webpage with the customised blur level. |
-| <a href="https://deeplearningandaiwinterschool.github.io/"><img src="https://github.com/JaturongKongmanee/JaturongKongmanee/blob/master/assets/thumbnails/projects/dlai_128.png" width="100px;" alt=""/></a> | [DLAI](https://deeplearningandaiwinterschool.github.io/) | A website for Deep Learning and Artificial Intelligence Summer School. |
 
+<!--
+| <a href="https://deeplearningandaiwinterschool.github.io/"><img src="https://github.com/JaturongKongmanee/JaturongKongmanee/blob/master/assets/thumbnails/projects/dlai_128.png" width="100px;" alt=""/></a> | [DLAI](https://deeplearningandaiwinterschool.github.io/) | A website for Deep Learning and Artificial Intelligence Summer School. |
+-->
 
 <!--
 | <a href="https://github.com/JaturongKongmanee/model-checking-nusmv"><img src="https://github.com/JaturongKongmanee/JaturongKongmanee/blob/master/assets/thumbnails/projects/ase_paper.png" width="100px;" alt=""/></a> | [js-ds-algo](https://github.com/JaturongKongmanee/js-ds-algo) | A note on what I've learned to be a professional full-stack JS software engineer. |
@@ -126,8 +135,6 @@ I'm a 🎧 PhD candidate (and 💻 Software Engineer) in ML working on making In
 
 
 
-
----
 
 <!--
 ### I’m currently reading ... :book: 
